@@ -1,0 +1,5 @@
+streamlit~=1.8.1
+pymysql
+pandas
+numpy
+streamlit-aggrid
