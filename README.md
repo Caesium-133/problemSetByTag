@@ -11,4 +11,4 @@ run:
 streamlit run main.py
 ```
 
-in cmd to run.
+in cmd to start.
