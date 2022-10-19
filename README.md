@@ -7,8 +7,8 @@ set your mysql paras in main.py before using.
 
 run:
 
-···
+```
 streamlit run main.py
-···
+```
 
 in cmd to run.
